@@ -13,8 +13,7 @@ namespace Point
             Point p = new Point(1, 2);
 
             Point p2 = new Point(3,4);
-            p2.setX(11);
-            p2.setY(17);
+      
             p.Distance(p2);
             Console.WriteLine(p.Distance(p2));
             Console.WriteLine(p2.Distance(p));
