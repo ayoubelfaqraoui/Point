@@ -10,9 +10,7 @@ namespace Point
     {
         static void Main(string[] args)
         {
-            Point p = new Point(1,2);
-            p.setX(10);
-            p.setY(6);
+            Point p = new Point(1, 2);
 
             Point p2 = new Point(3,4);
             p2.setX(11);
