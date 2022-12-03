@@ -10,8 +10,7 @@ namespace Point
     {
         static void Main(string[] args)
         {
-            Point p = new Point(1, 2);
-
+          
             Point p2 = new Point(3,4);
       
           
